@@ -1,4 +1,4 @@
 * linguist-vendored
-*.o linguist-vendored=false
+project-docs/* linguist-documentation
 Makefile linguist-vendored=false
 
