@@ -1,4 +1,4 @@
 * linguist-vendored
 project-docs/* linguist-documentation
-Makefile linguist-vendored=false
-
+Makefile linguist-vendored
+build*/* linguist-vendored
