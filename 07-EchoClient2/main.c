@@ -14,7 +14,6 @@ void error_handling(char *message)
     exit(1);
 }
 
-
 int main(int argc, char *argv[])
 {
     int sock;
